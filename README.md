@@ -1,6 +1,6 @@
 # Mon troisième repo GitHub
 
-![Logo GRETA 77](https://www.forpro-creteil.org/)
+![Logo GRETA 77](https://www.forpro-creteil.org/images/greta77.png)
 
 ## Réaliser le _30/01/2024_ sur le site de *Lognes*.
 
